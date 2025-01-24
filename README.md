@@ -1,7 +1,7 @@
 # Zyphria Website
 
 <div align="center">
-  <img src="./src/assets/logo3.jpg" alt="Zyphria Banner" width="100%" />
+  <img src="./src/assets/logo3.jpeg" alt="Zyphria Banner" width="100%" />
 </div>
 
 The official landing page for Sora Labs, built with React.js and MUI.
